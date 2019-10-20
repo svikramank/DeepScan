@@ -11,8 +11,12 @@ Low cost effective diagnosis implies early detection of health problems thereby 
 
 ## Implementation
 --------------------------
-
+Input Real Image
 [!s1.png](s1.png)
+
+Output Generated Image
 [!s2.png](s2.png)
 
+[!ss1.png](ss1.png)
+[!ss2.png](ss2.png)
 
