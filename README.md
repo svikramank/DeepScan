@@ -11,11 +11,9 @@ Low cost effective diagnosis implies early detection of health problems thereby 
 
 ## Implementation
 --------------------------
-Input Real Image
-[!s1.png](s1.png)
+Input Real Image and Generated output Image
+![CycleGAN](s1.gif)
 
-Output Generated Image
-[!s2.png](s2.png)
 
 ![Training1](ss1.png)
 ![Training2](ss2.png)
