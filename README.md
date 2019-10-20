@@ -17,6 +17,6 @@ Input Real Image
 Output Generated Image
 [!s2.png](s2.png)
 
-[!Training1](ss1.png)
-[!Training2](ss2.png)
+![Training1](ss1.png)
+![Training2](ss2.png)
 
