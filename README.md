@@ -9,9 +9,8 @@ Essential for providing global, scalable and sustainable healthcare  diagnostic 
 ### Impact 
 Low cost effective diagnosis implies early detection of health problems thereby improving the quality of a  patient’s life
 
-## Implementation
+## Implementation of CycleGAN
 --------------------------
-Input Real Image and Generated output Image
 ![CycleGAN](s1.gif)
 
 
