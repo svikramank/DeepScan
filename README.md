@@ -1,5 +1,5 @@
 # DeepScan 
-
+Link to the presentation - https://docs.google.com/presentation/d/1Ucplua7BLUCmxoFhtF0noQGw-3HZjBAPultyzgRmzS8/edit?usp=sharing
 ### Problem  
 Low affordability, accessibility and availability of medical imaging diagnosis 
 
